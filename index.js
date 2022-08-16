@@ -79,7 +79,7 @@ function createWindow () {
   // }));
 
   mainWindow.setAutoHideMenuBar(true);
-mainWindow.loadURL('https://preview.undev.studio/provoke');
+mainWindow.loadURL('https://cables.gl');
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools();

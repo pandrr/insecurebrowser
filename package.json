@@ -1,0 +1,22 @@
+{
+  "name": "insecurebrowser",
+  "version": "1.0.0",
+  "description": "an insecure browser, that is not secure at all",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandrr/insecurebrowser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandrr/insecurebrowser/issues"
+  },
+  "homepage": "https://github.com/pandrr/insecurebrowser#readme",
+  "devDependencies": {
+    "electron": "^20.0.2"
+  }
+}
