@@ -1,7 +1,7 @@
 # insecurebrowser
 an insecure browser, that is not secure at all
 
-runs electron and opens https://cables.gl by default
+this little tool just starts electron and opens cables.gl website by default
 
 
 ### install
